@@ -1,5 +1,5 @@
 {
-  "name":"topClient",
+  "name":"node_top_client",
   "version":"1.0.0",
   "description":"tao open api topclient.",
   "license": "MIT",
