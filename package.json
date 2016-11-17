@@ -5,9 +5,9 @@
   "license": "MIT",
   "keywords": [
     "top",
-    "taobao",
-    "open api",
-    "top client"
+    "tao-bao",
+    "open-api",
+    "top-client"
   ],
   "main": "topClient.js",
   "dependencies":{
