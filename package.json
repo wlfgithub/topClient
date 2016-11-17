@@ -1,0 +1,17 @@
+{
+  "name":"topClient",
+  "version":"1.0.0",
+  "description":"tao open api topclient.",
+  "license": "MIT",
+  "keywords": [
+    "top",
+    "taobao",
+    "open api",
+    "top client"
+  ],
+  "main": "topClient.js",
+  "dependencies":{
+    "crypto":"^0.0.3",
+    "urllib":">=0.5.2"
+  }
+}
